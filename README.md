@@ -62,4 +62,4 @@ A model simulator app was built to streamline the process described above, we ca
 
 - [@haitieliu](https://www.github.com/octokatherine)
 
-- [An exaple of this project can be accessed here](https://haitieliu.github.io/Rscript.html))
+- [An exaple of this project can be accessed here](https://haitieliu.github.io/Rscript.html)
