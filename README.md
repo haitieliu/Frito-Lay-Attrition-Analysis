@@ -12,7 +12,7 @@
 
 - [Full MarkDown Report](https://haitieliu.github.io/Rscript.html)
 
-- [Videoed Presentation of this Report] (https://www.youtube.com/watch?v=NKKbte2gRtc)
+- [Videoed Presentation of this Report](https://www.youtube.com/watch?v=NKKbte2gRtc)
 
 
 
