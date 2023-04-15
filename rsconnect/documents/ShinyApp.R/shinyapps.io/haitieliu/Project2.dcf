@@ -1,0 +1,14 @@
+name: Project2
+title: Project2
+username:
+account: haitieliu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8857877
+bundleId: 7091989
+url: https://haitieliu.shinyapps.io/Project2/
+when: 1681525760.63044
+lastSyncTime: 1681525760.63046
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|5370f414-0bba-4bff-bba3-989d18de549c.png|CaseStudy2-data.csv|CaseStudy2CompSet No Attrition.csv|CaseStudy2CompSet No Salary.csv|Final_lm_data|FinalCompData|Notes.R|Rplot.png|Rscript.R
