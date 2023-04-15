@@ -10,7 +10,7 @@
 
 - [Use Rshiny App](https://haitieliu.shinyapps.io/Project2/) 
 
-- [Check out the full mark down report] ()
+- [Full MarkDown Report] (https://haitieliu.github.io/Rscript.html)
 
 
 
